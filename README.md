@@ -18,20 +18,7 @@ Name File | Description
 [library.h](./src/library.h) | interpreter prototypes
 [main.c](./src/main.c)    | execute main function
 [linked_list.c](./src/linked_list.c) | save all the path to execute the commands
-[getenv.c](./src/getenv.c) | Funtions principals of the projects
-Set_commands.c | Funtions for the Get_commands file
-Utility.c | Some of string functions that utility of the project.
-Exit_system.c | Exit process
-Built.c | built-in command that prints environment variables
-
-## Functions Of The Project
-
-Name Function | Description
-------------- | -------------
-_strcat    | concatenates a string to another
-_strcmp    | compares string to another
-_strncmp   | compare two strings
-_itoa.c    | convert int to string
-_strcpy    | copies the string pointed to variable
-_strcpy    | copies the string pointed to variable
-_strdup    | Duplicate a string
+[getenv.c](./src/getenv.c) | get enviroment
+[set_commands.c](./src/set_commands.c) | tokenize the string to call the commands
+[utility.c](./src/utility.c) | functions of own implementation of the standard library
+[create_error.c](./src/create_error.c)| create a message of error
