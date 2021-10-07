@@ -30,3 +30,14 @@ Name File | Description
 
 > > 2_utility.c  built_in_func.c  echo      library.h      linked_list.c  set_commands.c
 a.out        create_error.c   getenv.c  library.h.gch  main.c         utility.c
+
+# Interactive
+>$
+>$ env
+>SHELL=/bin/bash
+>WSL_DISTRO_NAME=Ubuntu
+>NAME=LAPTOP-1CCJ17A1
+>PWD=/home/andresdiaz111/Try_Shell/src
+>LOGNAME=andresdiaz111
+>MOTD_SHOWN=update-motd
+>HOME=/home/andresdiaz111
