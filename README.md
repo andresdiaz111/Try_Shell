@@ -49,3 +49,6 @@ a.out        create_error.c   getenv.c  library.h.gch  main.c         utility.c
 >MOTD_SHOWN=update-motd
 >
 >HOME=/home/andresdiaz111
+
+## Authors
+* Andres Diaz <andresdiaz50101@gmail.com>
