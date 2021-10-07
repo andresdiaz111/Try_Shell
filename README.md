@@ -23,7 +23,9 @@ Name File | Description
 [utility.c](./src/utility.c) | functions of own implementation of the standard library
 [create_error.c](./src/create_error.c)| create a message of error
 
-## Non-Interactive
+## Usage
+
+# Non-Interactive
 > > echo "/bin/ls" | ./try_shell
 
 > > 2_utility.c  built_in_func.c  echo      library.h      linked_list.c  set_commands.c
