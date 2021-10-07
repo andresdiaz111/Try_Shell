@@ -16,8 +16,8 @@ Command interpreter written in C using linked lists to store the path.
 Name File | Description
 ------------- | -------------
 [library.h](./src/library.h) | interpreter prototypes
-main.c    | execute main function
-linked_list.c | save all the path to execute the commands
+[main.c](./src/main.c)    | execute main function
+[linked_list.c](./src/linked_list.c) | save all the path to execute the commands
 Get_commands.c | Funtions principals of the projects
 Set_commands.c | Funtions for the Get_commands file
 Utility.c | Some of string functions that utility of the project.
