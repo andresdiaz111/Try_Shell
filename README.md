@@ -15,13 +15,13 @@ A UNIX Command interpreter written in C using linked lists.
 
 Name File | Description
 ------------- | -------------
-[library.h](./src/library.h) | Interpreter prototypes
-[main.c](./src/main.c)    | Execute main function and print the prompt
-[linked_list.c](./src/linked_list.c) | save all the path to execute the commands
-[getenv.c](./src/getenv.c) | get enviroment
-[set_commands.c](./src/set_commands.c) | tokenize the string to call the commands
-[utility.c](./src/utility.c) | functions of own implementation of the standard library
-[create_error.c](./src/create_error.c)| create a message of error
+[library.h](./src/library.h) | Interpreter prototypes.
+[main.c](./src/main.c)    | Execute main function and print the prompt.
+[linked_list.c](./src/linked_list.c) | Save all the path to execute the commands.
+[getenv.c](./src/getenv.c) | Get enviroment.
+[set_commands.c](./src/set_commands.c) | Tokenize the string and call the commands.
+[utility.c](./src/utility.c) | Functions of own implementation of the standard library.
+[create_error.c](./src/create_error.c)| Create a error message.
 
 ## Usage
 
